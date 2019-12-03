@@ -1,0 +1,40 @@
+Instância 0
+Objective Function Value = 295.00
+Time: 0.015068 second(s).
+
+Instância 1
+Objective Function Value = 96594.00
+Time: 0.021211 second(s).
+
+Instância 2
+Objective Function Value = 126753.00
+Time: 0.021385 second(s).
+
+Instância 3
+Objective Function Value = 354989.00
+Time: 0.022937 second(s).
+
+Instância 4
+Objective Function Value = 459751.00
+Time: 0.028364 second(s).
+
+Instância 5
+Objective Function Value = 87961.00
+Time: 0.026085 second(s).
+
+Instância 6
+Objective Function Value = 294121.00
+Time: 0.019964 second(s).
+
+Instância 7
+Objective Function Value = 77693.00
+Time: 0.025954 second(s).
+
+Instância 8
+Objective Function Value = 571178.00
+Time: 0.016726 second(s).
+
+Instância 9
+Objective Function Value = 343860.00
+Time: 0.030986 second(s).
+
